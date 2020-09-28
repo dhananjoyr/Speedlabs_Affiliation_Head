@@ -1,0 +1,214 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "BDDCD99F-F5DB-4ABF-A6C1-1ED49ADB3D12",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "d44d72c1-fe47-11ea-94da-cbf24f0e71ed",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0760249A-2E97-45A1-84E1-A76F31293D26",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Semibold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "0F823E81-8206-469A-AABC-CD8D421152B1",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3A6CA9BC-0853-4F4D-B189-D80B14B65343",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A It.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-RegularIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4164700A-CCF7-4A8E-A517-42F91E02526A",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Extrabold It.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-ExtrabldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "447430E7-5E67-4003-B0FD-688A8C092D0E",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Light It.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-LightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "76CF64EB-8852-4B4C-802F-9C7E8014A597",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Semibold It.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-SemiboldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8C2DBFA5-A879-45C6-A42B-CA6C78840318",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Thin It.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-ThinIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "95CE4C8F-E603-4763-815D-525AB5211FCB",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Extrabold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-Extrabld"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9D20C424-8E0D-4045-B7F2-3A6A07703F1E",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Bold It.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-BoldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AE73708D-2BD5-4139-8908-02EEFF92EDE1",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Black It.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-BlackIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B1EE1F82-40A7-4329-8A5E-802CF7FF7DFB",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B28569D2-3ACD-4326-A7E9-17384A4A5A0E",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "ProximaNovaA-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C4B7BFE9-E174-4200-AF82-CBFF666A2464",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D1521A35-1E18-4E39-AB59-340B8A0B5209",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D92170E7-22B5-46E3-8666-C072C0E39EBE",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E72C7577-26D2-4F45-9FEB-D83A3ACCE752",
+      "fontFamilyName": "Proxima Nova A",
+      "fontFileName": "Mark Simonson - Proxima Nova A Medium It.otf",
+      "options": 0,
+      "postscriptNames": [
+        "ProximaNovaA-MediumIt"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
+}
