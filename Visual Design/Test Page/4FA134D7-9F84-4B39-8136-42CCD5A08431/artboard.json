@@ -56,6 +56,10 @@
     {
       "class": "bitmap",
       "id": "54B79854-8F91-48C6-804D-916F65D2BA43"
+    },
+    {
+      "class": "group",
+      "id": "F9CDC84A-3C26-45C0-AFC0-401EA6F19820"
     }
   ],
   "name": "Pixelbook",

@@ -1,0 +1,132 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9CDC84A-3C26-45C0-AFC0-401EA6F19820",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 565,
+    "width": 320,
+    "x": 830,
+    "y": 219
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B9DD8F28-301C-4FC0-921E-665CD1A233B9"
+    },
+    {
+      "class": "group",
+      "id": "B7A07D74-5868-4076-8F02-E2ED31E4853E"
+    }
+  ],
+  "name": "01 iPhone X/01/Clay Color",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "04C5EBA2-0587-4546-9231-8C29CA99C485",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "59C3B2B0-8190-4B09-AD2D-0DFF587E2DA0",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 564,
+          "width": 282,
+          "x": 817,
+          "y": 219
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "F04CE249-284C-48E8-B4B8-C51A0A1849F1",
+        "symbolID": "366EB4D3-E8EF-427B-BA4B-17AADD212EAA"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "59C3B2B0-8190-4B09-AD2D-0DFF587E2DA0",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 564,
+          "width": 282,
+          "x": 817,
+          "y": 219
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "F04CE249-284C-48E8-B4B8-C51A0A1849F1",
+        "symbolID": "366EB4D3-E8EF-427B-BA4B-17AADD212EAA"
+      }
+    }
+  }
+}
