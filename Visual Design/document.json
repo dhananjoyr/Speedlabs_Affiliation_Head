@@ -23,6 +23,9 @@
   },
   "colorSpace": 0,
   "do_objectID": "d44d72c1-fe47-11ea-94da-cbf24f0e71ed",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -195,19 +198,21 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "FB7157EF-FC5C-11EA-94DA-C0F04F2F0880",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68.2",
-    "build": 102594,
-    "version": 131
+    "appVersion": "69",
+    "build": 107357,
+    "version": 134
   },
   "pages": [
     "Page 1"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "ED7D53EF-FC5C-11EA-94DA-C0F04F2F068C",
     "objects": [
     ]
   }
